@@ -1,0 +1,7 @@
+statsmodel
+pyDOE
+diversipy
+numpy
+pandas
+matplotlib
+seaborn
